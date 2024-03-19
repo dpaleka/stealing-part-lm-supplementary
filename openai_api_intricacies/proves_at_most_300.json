@@ -1,0 +1,53 @@
+{
+    "26.500": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "26.590": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "26.680": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "26.770": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "26.860": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "26.950": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.040": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.130": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.220": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.310": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.400": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.490": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.580": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.670": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.760": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.850": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    },
+    "27.940": {
+        "error": "Error code: 400 - {'error': {'message': 'You provided 500 logit biases, but can provide at most 300', 'type': 'invalid_request_error', 'param': 'logit_bias', 'code': None}}"
+    }
+}

@@ -1,0 +1,512 @@
+{
+    "gpt-3.5-turbo-1106": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    },
+    "gpt-3.5-turbo-0301": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    },
+    "gpt-3.5-turbo-0613": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    },
+    "gpt-4-1106-preview": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    },
+    "gpt-4-0314": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    },
+    "gpt-4-0613": {
+        "choices": [
+            {
+                "finish_reason": "length",
+                "index": 0,
+                "logprobs": {
+                    "content": [
+                        {
+                            "token": "Hello",
+                            "bytes": [
+                                72,
+                                101,
+                                108,
+                                108,
+                                111
+                            ],
+                            "logprob": -0.1772953,
+                            "top_logprobs": [
+                                {
+                                    "token": "Hello",
+                                    "bytes": [
+                                        72,
+                                        101,
+                                        108,
+                                        108,
+                                        111
+                                    ],
+                                    "logprob": -0.1772953
+                                },
+                                {
+                                    "token": "Sure",
+                                    "bytes": [
+                                        83,
+                                        117,
+                                        114,
+                                        101
+                                    ],
+                                    "logprob": -3.3335452
+                                },
+                                {
+                                    "token": "I",
+                                    "bytes": [
+                                        73
+                                    ],
+                                    "logprob": -3.6929202
+                                },
+                                {
+                                    "token": "Hi",
+                                    "bytes": [
+                                        72,
+                                        105
+                                    ],
+                                    "logprob": -4.021045
+                                },
+                                {
+                                    "token": "You",
+                                    "bytes": [
+                                        89,
+                                        111,
+                                        117
+                                    ],
+                                    "logprob": -4.09917
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "message": {
+                    "content": "Hello",
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1706029719,
+        "model": "gpt-4-0613",
+        "object": "chat.completion",
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 1,
+            "prompt_tokens": 8,
+            "total_tokens": 9
+        }
+    }
+}

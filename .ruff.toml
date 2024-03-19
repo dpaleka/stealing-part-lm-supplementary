@@ -1,0 +1,14 @@
+exclude = [
+  "*.ipynb",
+]
+
+ignore = [
+  # line too long
+  "E501", 
+  # module level import not at top of file
+  "E402", 
+  # ambiguous variable name
+  "E741",
+  # local variable name is assigned to but never used
+  "F841",
+]

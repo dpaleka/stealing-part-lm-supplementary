@@ -1,0 +1,9 @@
+openai
+sentencepiece
+cachier
+randomname
+torch
+matplotlib
+scikit-learn
+tiktoken
+

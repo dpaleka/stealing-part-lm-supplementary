@@ -1,0 +1,427 @@
+{
+    "26.500": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelings.",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144386,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "26.590": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144386,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "26.680": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144387,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "26.770": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144387,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "26.860": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144388,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "26.950": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144389,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.040": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144390,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.130": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144390,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.220": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144391,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.310": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144392,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.400": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144392,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.490": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144393,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.580": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144394,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.670": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144395,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.760": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144395,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.850": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "As an AI, I don't have feelingssad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144396,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    },
+    "27.940": {
+        "completion": {
+            "choices": [
+                {
+                    "finish_reason": "length",
+                    "index": 0,
+                    "message": {
+                        "content": "sadsadsadsadsadsadsadsadsadsad",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "created": 1700144397,
+            "model": "gpt-3.5-turbo-0613",
+            "object": "chat.completion",
+            "system_fingerprint": null,
+            "usage": {
+                "completion_tokens": 10,
+                "prompt_tokens": 22,
+                "total_tokens": 32
+            }
+        }
+    }
+}

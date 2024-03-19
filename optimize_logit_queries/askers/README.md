@@ -1,0 +1,1 @@
+Askers return a vector v which is used for i <- argmax(x + v).
