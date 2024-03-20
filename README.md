@@ -1,4 +1,4 @@
-## Some accompanying code for the paper "Stealing Part of a Production Language Model" Carlini et al. 2024
+## Supplementary code for [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634), Carlini et al., 2024
 
 ### `optimize_logit_queries`
 Implements *logprob-free* attacks on a known vector of logits (no API calls).
